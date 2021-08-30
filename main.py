@@ -31,7 +31,7 @@ START_TEXT = """🆔 Your Telegram ID : `{}`"""
 
 START_BUTTON = InlineKeyboardMarkup(
              [[
-             InlineKeyboardButton('♻️ Updates Channel ♻️', url=f"https://telegram.me/{Config.UPDATE_CHANNEL}")
+             InlineKeyboardButton('⭕ My Group ⭕', url=f"https://telegram.me/{Config.UPDATE_CHANNEL}")
              ]]
         )
 
