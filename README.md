@@ -13,7 +13,8 @@ License -> https://github.com/Hydrayt777/TG-ID-Bot/blob/main/LICENSE
 
 ---
 
-[![Deploy on Railway](
+# Deploy on Railway
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FHydrayt777%2FTG-ID-Bot-.git&envs=API_HASH%2CAPI_ID%2CBOT_TOKEN%2CUPDATE_CHANNEL&optionalEnvs=UPDATE_CHANNEL&API_HASHDesc=Your+API_HASH+Get+From+https%3A%2F%2Fmy.telegram.org%2Fapps&API_IDDesc=Your+API_ID+Get+From+https%3A%2F%2Fmy.telegram.org%2Fapps&BOT_TOKENDesc=Your+Bot+token+Get+From+%40Botfather&UPDATE_CHANNELDesc=Your+Channel+Username+Without+%40&referralCode=Hydrix)
 # Deploy To Heroku
 
 <details><summary><b>Deploy To Heroku</b></summary>
