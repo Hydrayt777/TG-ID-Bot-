@@ -13,6 +13,8 @@ License -> https://github.com/Hydrayt777/TG-ID-Bot/blob/main/LICENSE
 
 ---
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FHydrayt777%2FTG-ID-Bot-.git&envs=API_HASH%2CAPI_ID%2CBOT_TOKEN%2CUPDATE_CHANNEL&referralCode=Hydra)
+
 # Deploy To Heroku
 
 <details><summary><b>Deploy To Heroku</b></summary>
